@@ -3,5 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/netica/NeticaJ.jar"/>
+	<classpathentry kind="lib" path="lib/javabayes/javabayes-0.346.jar" sourcepath="/JavaBayes/src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
